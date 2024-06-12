@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/burak/Downloads/Turtle/Turtle/Turtle.csproj": {}
+    "/Users/burak/Documents/GitHub/Turtle/Turtle/Turtle.csproj": {}
   },
   "projects": {
-    "/Users/burak/Downloads/Turtle/BussinessLayer/BussinessLayer.csproj": {
+    "/Users/burak/Documents/GitHub/Turtle/BussinessLayer/BussinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burak/Downloads/Turtle/BussinessLayer/BussinessLayer.csproj",
+        "projectUniqueName": "/Users/burak/Documents/GitHub/Turtle/BussinessLayer/BussinessLayer.csproj",
         "projectName": "BussinessLayer",
-        "projectPath": "/Users/burak/Downloads/Turtle/BussinessLayer/BussinessLayer.csproj",
+        "projectPath": "/Users/burak/Documents/GitHub/Turtle/BussinessLayer/BussinessLayer.csproj",
         "packagesPath": "/Users/burak/.nuget/packages/",
-        "outputPath": "/Users/burak/Downloads/Turtle/BussinessLayer/obj/",
+        "outputPath": "/Users/burak/Documents/GitHub/Turtle/BussinessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/burak/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/burak/Downloads/Turtle/DataAccessLayer/DataAccessLayer.csproj": {
-                "projectPath": "/Users/burak/Downloads/Turtle/DataAccessLayer/DataAccessLayer.csproj"
+              "/Users/burak/Documents/GitHub/Turtle/DataAccessLayer/DataAccessLayer.csproj": {
+                "projectPath": "/Users/burak/Documents/GitHub/Turtle/DataAccessLayer/DataAccessLayer.csproj"
               },
-              "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj": {
-                "projectPath": "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj"
+              "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj": {
+                "projectPath": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "/Users/burak/Downloads/Turtle/DataAccessLayer/DataAccessLayer.csproj": {
+    "/Users/burak/Documents/GitHub/Turtle/DataAccessLayer/DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burak/Downloads/Turtle/DataAccessLayer/DataAccessLayer.csproj",
+        "projectUniqueName": "/Users/burak/Documents/GitHub/Turtle/DataAccessLayer/DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "/Users/burak/Downloads/Turtle/DataAccessLayer/DataAccessLayer.csproj",
+        "projectPath": "/Users/burak/Documents/GitHub/Turtle/DataAccessLayer/DataAccessLayer.csproj",
         "packagesPath": "/Users/burak/.nuget/packages/",
-        "outputPath": "/Users/burak/Downloads/Turtle/DataAccessLayer/obj/",
+        "outputPath": "/Users/burak/Documents/GitHub/Turtle/DataAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/burak/.nuget/NuGet/NuGet.Config"
@@ -111,8 +111,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj": {
-                "projectPath": "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj"
+              "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj": {
+                "projectPath": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj"
               }
             }
           }
@@ -187,14 +187,14 @@
         }
       }
     },
-    "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj": {
+    "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj",
+        "projectUniqueName": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj",
+        "projectPath": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj",
         "packagesPath": "/Users/burak/.nuget/packages/",
-        "outputPath": "/Users/burak/Downloads/Turtle/EntityLayer/obj/",
+        "outputPath": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/burak/.nuget/NuGet/NuGet.Config"
@@ -255,14 +255,14 @@
         }
       }
     },
-    "/Users/burak/Downloads/Turtle/Turtle/Turtle.csproj": {
+    "/Users/burak/Documents/GitHub/Turtle/Turtle/Turtle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/burak/Downloads/Turtle/Turtle/Turtle.csproj",
+        "projectUniqueName": "/Users/burak/Documents/GitHub/Turtle/Turtle/Turtle.csproj",
         "projectName": "Turtle",
-        "projectPath": "/Users/burak/Downloads/Turtle/Turtle/Turtle.csproj",
+        "projectPath": "/Users/burak/Documents/GitHub/Turtle/Turtle/Turtle.csproj",
         "packagesPath": "/Users/burak/.nuget/packages/",
-        "outputPath": "/Users/burak/Downloads/Turtle/Turtle/obj/",
+        "outputPath": "/Users/burak/Documents/GitHub/Turtle/Turtle/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/burak/.nuget/NuGet/NuGet.Config"
@@ -277,14 +277,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/burak/Downloads/Turtle/BussinessLayer/BussinessLayer.csproj": {
-                "projectPath": "/Users/burak/Downloads/Turtle/BussinessLayer/BussinessLayer.csproj"
+              "/Users/burak/Documents/GitHub/Turtle/BussinessLayer/BussinessLayer.csproj": {
+                "projectPath": "/Users/burak/Documents/GitHub/Turtle/BussinessLayer/BussinessLayer.csproj"
               },
-              "/Users/burak/Downloads/Turtle/DataAccessLayer/DataAccessLayer.csproj": {
-                "projectPath": "/Users/burak/Downloads/Turtle/DataAccessLayer/DataAccessLayer.csproj"
+              "/Users/burak/Documents/GitHub/Turtle/DataAccessLayer/DataAccessLayer.csproj": {
+                "projectPath": "/Users/burak/Documents/GitHub/Turtle/DataAccessLayer/DataAccessLayer.csproj"
               },
-              "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj": {
-                "projectPath": "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj"
+              "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj": {
+                "projectPath": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj"
               }
             }
           }

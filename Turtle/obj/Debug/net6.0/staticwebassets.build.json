@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zH/SrPoCREZ6040xFQV/kV9PSLRkjiYGUSin4oQySr8=",
+  "Hash": "4pDMupuWkcpI/kC9recgwJjLvOot9Pq+Sxtd9DxHXp8=",
   "Source": "Turtle",
   "BasePath": "_content/Turtle",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Turtle/wwwroot",
       "Source": "Turtle",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/obj/Debug/net6.0/scopedcss/bundle/Turtle.styles.css",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/obj/Debug/net6.0/scopedcss/bundle/Turtle.styles.css",
       "SourceId": "Turtle",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/Turtle",
       "RelativePath": "Turtle.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/burak/Downloads/Turtle/Turtle/obj/Debug/net6.0/scopedcss/bundle/Turtle.styles.css"
+      "OriginalItemSpec": "/Users/burak/Documents/GitHub/Turtle/Turtle/obj/Debug/net6.0/scopedcss/bundle/Turtle.styles.css"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/obj/Debug/net6.0/scopedcss/projectbundle/Turtle.bundle.scp.css",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/obj/Debug/net6.0/scopedcss/projectbundle/Turtle.bundle.scp.css",
       "SourceId": "Turtle",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/Turtle",
       "RelativePath": "Turtle.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/burak/Downloads/Turtle/Turtle/obj/Debug/net6.0/scopedcss/projectbundle/Turtle.bundle.scp.css"
+      "OriginalItemSpec": "/Users/burak/Documents/GitHub/Turtle/Turtle/obj/Debug/net6.0/scopedcss/projectbundle/Turtle.bundle.scp.css"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/css/mail-input.css",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/css/mail-input.css",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/css/mail-input.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/assets/css/mail-input.css"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/css/style.css",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/css/style.css",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/assets/css/style.css"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/css/style.css.map",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/css/style.css.map",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/css/style.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/assets/css/style.css.map"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.eot",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.eot",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Bold.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.eot"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.ttf",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.ttf",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Bold.ttf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.ttf"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.woff",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.woff",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Bold.woff",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.woff"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.woff2",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.woff2",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Bold.woff2",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Bold.woff2"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.eot",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.eot",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Light.eot",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.eot"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.ttf",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.ttf",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Light.ttf",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.ttf"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.woff",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.woff",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Light.woff",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.woff"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.woff2",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.woff2",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Light.woff2",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Light.woff2"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.eot",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.eot",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Medium.eot",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.eot"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.ttf",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.ttf",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Medium.ttf",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.ttf"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.woff",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.woff",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Medium.woff",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.woff"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.woff2",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.woff2",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Medium.woff2",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Medium.woff2"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.eot",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.eot",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Regular.eot",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.eot"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.ttf",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.ttf",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Regular.ttf",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.ttf"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.woff",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.woff",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Regular.woff",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.woff"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.woff2",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.woff2",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/fonts/Ubuntu/Ubuntu-Regular.woff2",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/Ubuntu/Ubuntu-Regular.woff2"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/dashboard/circle.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/dashboard/circle.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/dashboard/circle.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/dashboard/circle.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/dashboard/circle.svg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/dashboard/circle.svg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/dashboard/circle.svg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/dashboard/circle.svg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/dashboard/img_1.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/dashboard/img_1.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/dashboard/img_1.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/dashboard/img_1.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/dashboard/img_2.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/dashboard/img_2.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/dashboard/img_2.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/dashboard/img_2.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/dashboard/img_3.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/dashboard/img_3.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/dashboard/img_3.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/dashboard/img_3.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/dashboard/img_4.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/dashboard/img_4.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/dashboard/img_4.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/dashboard/img_4.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces-clipart/pic-1.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces-clipart/pic-1.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces-clipart/pic-1.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces-clipart/pic-1.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces-clipart/pic-2.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces-clipart/pic-2.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces-clipart/pic-2.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces-clipart/pic-2.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces-clipart/pic-3.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces-clipart/pic-3.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces-clipart/pic-3.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces-clipart/pic-3.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces-clipart/pic-4.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces-clipart/pic-4.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces-clipart/pic-4.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces-clipart/pic-4.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face1.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face1.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face1.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face10.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face10.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face10.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face11.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face11.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face11.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face12.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face12.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face12.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face13.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face13.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face13.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face14.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face14.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face14.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face15.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face15.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face15.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face16.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face16.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face16.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face17.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face17.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face17.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face18.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face18.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face18.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face19.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face19.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face19.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face2.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face2.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face2.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face20.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face20.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face20.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face21.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face21.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face21.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face22.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face22.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face22.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face23.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face23.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face23.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face24.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face24.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face24.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face25.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face25.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face25.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face26.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face26.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face26.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face27.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face27.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face27.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face3.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face3.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face3.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face4.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face4.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face4.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face5.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face5.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face5.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face6.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face6.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face6.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face7.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face7.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face7.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face8.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face8.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face8.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/faces/face9.jpg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/faces/face9.jpg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/faces/face9.jpg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/favicon.ico",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/favicon.ico",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/favicon.ico",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/favicon.ico"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/favicon.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/favicon.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/favicon.png",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/favicon.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/logo-mini.svg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/logo-mini.svg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/logo-mini.svg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/logo-mini.svg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/logo.svg",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/logo.svg",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/logo.svg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/logo.svg"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/sprites/blue.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/sprites/blue.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/sprites/blue.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/sprites/blue.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/sprites/dark.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/sprites/dark.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/sprites/dark.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/sprites/dark.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/sprites/flag.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/sprites/flag.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/sprites/flag.png",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/sprites/flag.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/sprites/green.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/sprites/green.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/sprites/green.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/sprites/green.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/sprites/jsgrid-icons.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/sprites/jsgrid-icons.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/sprites/jsgrid-icons.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/sprites/jsgrid-icons.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/sprites/red.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/sprites/red.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/sprites/red.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/sprites/red.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/images/sprites/yellow.png",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/images/sprites/yellow.png",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/images/sprites/yellow.png",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/sprites/yellow.png"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/chart.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/chart.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/chart.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/chart.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/dashboard.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/dashboard.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/dashboard.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/dashboard.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/file-upload.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/file-upload.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/file-upload.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/file-upload.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/hoverable-collapse.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/hoverable-collapse.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/hoverable-collapse.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/misc.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/misc.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/misc.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/misc.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/off-canvas.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/off-canvas.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/off-canvas.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/off-canvas.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/sweetalert.min.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/sweetalert.min.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/sweetalert.min.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/sweetalert.min.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/todo.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/todo.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/todo.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/todo.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/js/todolist.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/js/todolist.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/js/todolist.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot/assets/js/todolist.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_dashboard.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_dashboard.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_dashboard.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_dashboard.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_demo.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_demo.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_demo.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_demo.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_fonts.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_fonts.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_fonts.scss",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_fonts.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_footer.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_footer.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_footer.scss",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_footer.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_functions.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_functions.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_functions.scss",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_functions.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_layouts.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_layouts.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_layouts.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_misc.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_misc.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_misc.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_misc.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_navbar.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_navbar.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_navbar.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_reset.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_reset.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_reset.scss",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_reset.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_sidebar.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_sidebar.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_sidebar.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_typography.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_typography.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_typography.scss",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_typography.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_utilities.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_utilities.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_utilities.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_variables.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_variables.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_variables.scss",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_variables.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_vertical-wrapper.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_vertical-wrapper.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_vertical-wrapper.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/_widget-grid.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/_widget-grid.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/_widget-grid.scss",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/_widget-grid.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_badges.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_badges.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_badges.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_bootstrap-progress.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_bootstrap-progress.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_bootstrap-progress.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_breadcrumbs.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_breadcrumbs.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_breadcrumbs.scss",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_breadcrumbs.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_buttons.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_buttons.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_buttons.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_cards.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_cards.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_cards.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_checkbox-radio.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_checkbox-radio.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_checkbox-radio.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_dropdown.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_dropdown.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_dropdown.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_forms.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_forms.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_forms.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_icons.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_icons.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_icons.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_lists.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_lists.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_lists.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_preview.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_preview.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_preview.scss",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_preview.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_tables.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_tables.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_tables.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/components/_todo-list.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/components/_todo-list.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/components/_todo-list.scss",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/components/_todo-list.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/landing-screens/_auth.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/landing-screens/_auth.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/landing-screens/_auth.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_animation.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_animation.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_animation.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_background.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_background.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_background.scss",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_background.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_badges.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_badges.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_badges.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_blockqoute.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_blockqoute.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_blockqoute.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_breadcrumbs.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_breadcrumbs.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_breadcrumbs.scss",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_breadcrumbs.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_buttons.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_buttons.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_buttons.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_cards.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_cards.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_cards.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_misc.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_misc.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_misc.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_pagination.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_pagination.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_pagination.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_popovers.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_popovers.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_popovers.scss",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_popovers.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_text.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_text.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_text.scss",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_text.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/mixins/_tooltips.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/mixins/_tooltips.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/mixins/_tooltips.scss",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/mixins/_tooltips.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/scss/style.scss",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/scss/style.scss",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/scss/style.scss",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot/assets/scss/style.scss"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/chart.js/Chart.min.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/chart.js/Chart.min.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/chart.js/Chart.min.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/css/vendor.bundle.base.css",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/css/vendor.bundle.base.css",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/css/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/css/vendor.bundle.base.css"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/js/bootstrap.min.js.map",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/js/bootstrap.min.js.map",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/js/vendor.bundle.base.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/js/vendor.bundle.base.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/js/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/js/vendor.bundle.base.js"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/mdi/css/materialdesignicons.min.css",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/mdi/css/materialdesignicons.min.css",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/mdi/css/materialdesignicons.min.css"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/mdi/css/materialdesignicons.min.css.map",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/mdi/css/materialdesignicons.min.css.map",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/mdi/css/materialdesignicons.min.css.map"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.eot",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/js/site.js",
+      "Identity": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/js/site.js",
       "SourceId": "Turtle",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/burak/Downloads/Turtle/Turtle/wwwroot/",
+      "ContentRoot": "/Users/burak/Documents/GitHub/Turtle/Turtle/wwwroot/",
       "BasePath": "_content/Turtle",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

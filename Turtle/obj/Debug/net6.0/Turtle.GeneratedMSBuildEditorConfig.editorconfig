@@ -9,87 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Turtle
 build_property.RootNamespace = Turtle
-build_property.ProjectDir = /Users/burak/Downloads/Turtle/Turtle/
+build_property.ProjectDir = /Users/burak/Documents/GitHub/Turtle/Turtle/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/burak/Downloads/Turtle/Turtle
+build_property.MSBuildProjectDirectory = /Users/burak/Documents/GitHub/Turtle/Turtle
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Home/Index.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Home/Privacy.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Login/Index.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Meeting/AddMeeting.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Meeting/AddMeeting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9BZGRNZWV0aW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Meeting/Detail.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Meeting/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Meeting/DisabledMeetings.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Meeting/DisabledMeetings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9EaXNhYmxlZE1lZXRpbmdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Meeting/EditMeeting.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Meeting/EditMeeting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9FZGl0TWVldGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Meeting/Index.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Meeting/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Meeting/List.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Meeting/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9MaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Meeting/VoteAMeeting.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Meeting/VoteAMeeting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9Wb3RlQU1lZXRpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Meeting/VoteMeeting.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Meeting/VoteMeeting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9Wb3RlTWVldGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Register/Index.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaXN0ZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Shared/Error.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Shared/Footer.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Shared/Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Zvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Shared/Header.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Shared/Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0hlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/_ViewImports.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/_ViewStart.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/burak/Downloads/Turtle/Turtle/Views/Shared/_Layout.cshtml]
+[/Users/burak/Documents/GitHub/Turtle/Turtle/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-phhs4b24po

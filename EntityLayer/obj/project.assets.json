@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj",
+      "projectUniqueName": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "/Users/burak/Downloads/Turtle/EntityLayer/EntityLayer.csproj",
+      "projectPath": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/EntityLayer.csproj",
       "packagesPath": "/Users/burak/.nuget/packages/",
-      "outputPath": "/Users/burak/Downloads/Turtle/EntityLayer/obj/",
+      "outputPath": "/Users/burak/Documents/GitHub/Turtle/EntityLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/burak/.nuget/NuGet/NuGet.Config"
