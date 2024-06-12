@@ -1,0 +1,158 @@
+﻿@model EntityLayer.Concrete.Meeting
+
+@{
+}
+
+
+
+
+<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/thinline.css">
+<link rel="stylesheet" href="/assets/css/mail-input.css">
+
+<div class="page-header">
+
+    <nav aria-label="breadcrumb">
+
+    </nav>
+</div>
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <p>
+                    <b>Toplantı Adı:</b> @Model.MeetingName
+                    <br />
+                    <b>Toplantı Açıklaması:</b> @Model.Description
+                    <br />
+                    <b>Toplantı Süresi:</b> @Model.MeetingDuration
+                    <br />
+                    <b>Toplantı Konumu:</b> @Model.Location
+                    <br />
+                    <b>Toplantı Katılımcıları:</b>
+                    @{
+                        var count = 0;
+                    }
+                    @foreach (var item in Model.Mails)
+                    {
+                        <span>@item.email</span> @if (Model.Mails.Count > count + 1)
+                        {
+                            <span>,</span>
+                        }
+                        count++;
+                    }
+                </p>
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Toplantı Tarihi</th>
+                            <th>Oy Sayısı</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            int countPd1 = 0;
+                            int countPd2 = 0;
+                            int countPd3 = 0;
+
+                            @foreach (var mail in Model.Mails)
+                            {
+                                if (mail.ChoosedDate == 1) { countPd1++; }
+                                if (mail.ChoosedDate == 2) { countPd2++; }
+                                if (mail.ChoosedDate == 3) { countPd3++; }
+                            }
+                        }
+                        @if (Model.PlanningDate.Year != 1)
+                        {
+                            if (countPd1 > countPd2 && countPd1 > countPd3)
+                            {
+                                <tr class="table-success">
+                                    <td>@Model.PlanningDate</td>
+                                    <td>
+                                        <span>@countPd1</span>
+                                    </td>
+                                </tr>
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td>@Model.PlanningDate</td>
+                                    <td>
+                                        <span>@countPd1</span>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        @if (Model.PlanningDate2.Year != 2)
+                        {
+                            if (countPd2 > countPd1 && countPd2 > countPd3)
+                            {
+                                <tr class="table-success">
+                                    <td>@Model.PlanningDate2</td>
+                                    <td>
+                                        <span>@countPd2</span>
+                                    </td>
+                                </tr>
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td>@Model.PlanningDate2</td>
+                                    <td>
+                                        <span>@countPd2</span>
+                                    </td>
+                                </tr>
+                            }
+
+                        }
+                        @if (Model.PlanningDate3.Year != 3)
+                        {
+                            if (countPd3 > countPd2 && countPd3 > countPd1)
+                            {
+                                <tr class="table-success">
+                                    <td>@Model.PlanningDate3</td>
+                                    <td>
+                                        <span>@countPd3</span>
+                                    </td>
+                                </tr>
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td>@Model.PlanningDate3</td>
+                                    <td>
+                                        <span>@countPd3</span>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+                @if (Model.FinalizeDate.Year == 1)
+                {
+                    <form action="/Meeting/FinalizeMeeting" method="post">
+                        <input name="meetingId" class="d-none" value="@Model.MeetingID" />
+                        @if (countPd1 > countPd2 && countPd1 > countPd3)
+                        {
+                            <input name="dateTime" class="d-none" value="@Model.PlanningDate" />
+                        }
+                        @if (countPd2 > countPd3 && countPd2 > countPd1)
+                        {
+                            <input name="dateTime" class="d-none" value="@Model.PlanningDate2" />
+                        }
+                        @if (countPd3 > countPd2 && countPd3 > countPd1)
+                        {
+                            <input name="dateTime" class="d-none" value="@Model.PlanningDate3" />
+                        }
+                        <button type="submit" class="btn btn-gradient-primary mr-2 mt-3">Oylamayı Bitir</button>
+                    </form>
+                }
+                else
+                {
+                    <p class="text-info">@ViewBag.VotingFinished</p>
+                    <p><b>Seçilen Toplantı Tarihi ve Zamanı:</b> <span class="text-success font-weight-bold">@Model.FinalizeDate</span></p>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

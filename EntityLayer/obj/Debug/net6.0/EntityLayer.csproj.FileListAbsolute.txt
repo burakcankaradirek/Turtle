@@ -1,0 +1,11 @@
+/Users/burak/Downloads/Turtle/EntityLayer/bin/Debug/net6.0/EntityLayer.deps.json
+/Users/burak/Downloads/Turtle/EntityLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/burak/Downloads/Turtle/EntityLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/burak/Downloads/Turtle/EntityLayer/obj/Debug/net6.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burak/Downloads/Turtle/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/burak/Downloads/Turtle/EntityLayer/obj/Debug/net6.0/EntityLayer.AssemblyInfo.cs
+/Users/burak/Downloads/Turtle/EntityLayer/obj/Debug/net6.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/burak/Downloads/Turtle/EntityLayer/obj/Debug/net6.0/EntityLayer.dll
+/Users/burak/Downloads/Turtle/EntityLayer/obj/Debug/net6.0/refint/EntityLayer.dll
+/Users/burak/Downloads/Turtle/EntityLayer/obj/Debug/net6.0/EntityLayer.pdb
+/Users/burak/Downloads/Turtle/EntityLayer/obj/Debug/net6.0/ref/EntityLayer.dll

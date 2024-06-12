@@ -1,0 +1,161 @@
+﻿@model EntityLayer.Concrete.Meeting
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Purple Admin</title>
+    <!-- plugins:css -->
+    <link rel="stylesheet" href="../../assets/vendors/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="../../assets/vendors/css/vendor.bundle.base.css">
+    <!-- endinject -->
+    <!-- Plugin css for this page -->
+    <!-- End plugin css for this page -->
+    <!-- inject:css -->
+    <!-- endinject -->
+    <!-- Layout styles -->
+    <link rel="stylesheet" href="../../assets/css/style.css">
+    <!-- End layout styles -->
+    <link rel="shortcut icon" href="../../assets/images/favicon.ico">
+</head>
+<body>
+    <div class="container-scroller">
+        <div class="container-fluid page-body-wrapper full-page-wrapper">
+            <div class="content-wrapper d-flex align-items-center auth">
+                <div class="row flex-grow">
+                    @if (ViewBag.VoterMail == null)
+                    {
+                        <div class="col-lg-4 mx-auto">
+                            <div class="auth-form-light text-left p-5">
+                                <div class="brand-logo">
+                                    @*<img src="../../assets/images/logo.svg">*@
+                                    <h1 class="text-center">Turtle</h1>
+                                </div>
+                                @*<h4>Hello! let's get started</h4>*@
+                                <h6 class="font-weight-light">Toplantıyı oylamak için e posta adresinizi giriniz.</h6>
+                                <form method="post" class="pt-3">
+
+                                    @Html.HiddenFor(x=>x.MeetingID)
+                                    <div class="form-group">
+                                        <label for="voterMail">E-Mail Adresi</label>
+                                        <br>
+                                        <input class="form-control" name="voterMail" placeholder="E-mail adresinizi girin" />
+                                    </div>
+                                    <p class="text-danger">@ViewBag.VoteError</p>
+                                    <button class="btn btn-primary" type="submit">Giriş</button>
+
+
+                                </form>
+                            </div>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="col-lg-8 mx-auto">
+                            <div class="auth-form-light text-left p-5">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <p>
+                                            <b>Toplantı Adı:</b> @Model.MeetingName
+                                            <br />
+                                            <b>Toplantı Açıklaması:</b> @Model.Description
+                                            <br />
+                                            <b>Toplantı Süresi:</b> @Model.MeetingDuration
+                                            <br />
+                                            <b>Toplantı Konumu:</b> @Model.Location
+                                            <br />
+                                            <b>Toplantı Katılımcıları:</b>
+                                            @{
+                                                var count = 0;
+                                            }
+                                            @foreach (var item in Model.Mails)
+                                            {
+                                                <span>@item.email</span> @if (Model.Mails.Count > count + 1)
+                                                {
+                                                    <span>,</span>
+                                                }
+                                                count++;
+                                            }
+
+
+                                        </p>
+                                        @if (Model.FinalizeDate.Year == 1)
+                                        {
+                                            @if (ViewBag.VoteError2 == null)
+                                            {
+                                                <table class="table table-hover">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Toplantı Tarihi</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        @if (Model.PlanningDate.Year != 1)
+                                                        {
+                                                            <tr><td>@Model.PlanningDate</td>  <td><button style="float:right;" type="button" onclick="AreYouSureVoteMeeting('@ViewBag.VoterMail',1,'@Model.PlanningDate','@Model.MeetingID')" class="btn btn-primary">Oyla</button></td></tr>
+                                                        }
+                                                        @if (Model.PlanningDate2.Year != 1)
+                                                        {
+                                                            <tr><td>@Model.PlanningDate2</td>  <td><button style="float:right;" type="button" onclick="AreYouSureVoteMeeting('@ViewBag.VoterMail',2,'@Model.PlanningDate2','@Model.MeetingID')" class="btn btn-primary">Oyla</button></td></tr>
+
+                                                        }
+                                                        @if (Model.PlanningDate3.Year != 1)
+                                                        {
+                                                            <tr><td>@Model.PlanningDate3</td>  <td><button style="float:right;" type="button" onclick="AreYouSureVoteMeeting('@ViewBag.VoterMail',3,'@Model.PlanningDate3','@Model.MeetingID')" class="btn btn-primary">Oyla</button></td></tr>
+                                                        }
+
+                                                    </tbody>
+                                                </table>
+                                            }
+                                            else
+                                            {
+                                                <h3 class="text-danger">@ViewBag.VoteError2</h3>
+                                                <p><b>Oyladığınız Tarih:</b> @ViewBag.VoteDate</p>
+                                                <p class="text-info">Toplantı oylama sonucu mail ile gönderilecektir!</p>
+                                            }
+                                        }else{
+                                            <h4 class="text-info">Toplantı oylaması tamamlanmıştır. Belirlenen tarih ve saat: <span class="text-success">@Model.FinalizeDate</span></h4>
+                                        }
+                                        
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    }
+
+                </div>
+            </div>
+
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+    <!-- container-scroller -->
+    <!-- plugins:js -->
+    <script src="../../assets/vendors/js/vendor.bundle.base.js"></script>
+    <!-- endinject -->
+    <!-- Plugin js for this page -->
+    <!-- End plugin js for this page -->
+    <!-- inject:js -->
+    <script src="/assets/js/sweetalert.min.js"></script>
+    <script src="../../assets/js/off-canvas.js"></script>
+    <script src="../../assets/js/hoverable-collapse.js"></script>
+    <script src="../../assets/js/misc.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <!-- endinject -->
+
+</body>
+</html>

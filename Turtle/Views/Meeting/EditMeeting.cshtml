@@ -1,0 +1,269 @@
+﻿@model EntityLayer.Concrete.Meeting
+
+@{
+}
+
+<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/thinline.css">
+<link rel="stylesheet" href="/assets/css/mail-input.css">
+
+<div class="page-header">
+    <h3 class="page-title">  </h3>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"></li>
+            <li class="breadcrumb-item active" aria-current="page"></li>
+        </ol>
+    </nav>
+</div>
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Toplantı Oluştur</h4>
+                <br>
+
+                @using (Html.BeginForm("EditMeeting", "Meeting", FormMethod.Post, new { @class = "forms-sample", @enctype = "multipart/form-data", @id = "updateForm" }))
+                {
+                    @Html.HiddenFor(x=>x.MeetingID)
+                    <div class="form-group">
+                        <label for="MeetingName">Toplantı Başlığı</label>
+                        @Html.TextBoxFor(x=>x.MeetingName, new { @class="form-control" ,@type="text",@maxlength="32",@minlength="3",@placeholder="Toplantı Adı"})
+                        @Html.ValidationMessageFor(x=>x.MeetingName,"",new{@class="text-danger"})
+                    </div>
+                    <div class="form-group">
+                        <label for="Description">Toplantı Açıklaması (İsteğe Bağlı)</label>
+                        @Html.TextAreaFor(x=>x.Description, new { @class="form-control" ,@type="text", @placeholder="Toplantı Açıklaması", @rows="6", @minlength="3", @maxlength="300"})
+                        @Html.ValidationMessageFor(x=>x.Description,"",new{@class="text-danger"})
+                    </div>
+                    <div class="form-group">
+                        <label for="Location">Toplantı Konumu (İsteğe Bağlı)</label>
+                        @Html.TextBoxFor(x=>x.Location, new { @class="form-control" ,@type="text",@placeholder="Toplantı Konumu"})
+                        @Html.ValidationMessageFor(x=>x.Location,"",new{@class="text-danger"})
+                    </div>
+                    <div class="form-group">
+                        <label for="PlanningDate">Toplantı Tarihi</label>
+                        <p class="form-control" id="currentPD">@Model.PlanningDate</p>
+                        @Html.TextBoxFor(x=>x.PlanningDate, new {@value="{"+@Model.PlanningDate+"}", @class="form-control",@style="display:none;margin-bottom:10px;" ,@type="datetime-local",@placeholder="Toplantı Tarihi"})
+                        @Html.ValidationMessageFor(x=>x.PlanningDate,"",new{@class="text-danger",@id="pderr"})
+                        <button type="button" class="btn btn-primary" id="pDate" onclick="ChangeToPDate('#PlanningDate','none','#currentPD',this,'#pderr')">Düzenle</button>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="PlanningDate2">Toplantı Tarihi</label>
+                        @if (@Model.PlanningDate2.Year != 1)
+                        {
+                            <p class="form-control" id="currentPD2">@Model.PlanningDate2</p>
+                        }
+                        else
+                        {
+                            <p class="text-info" id="currentPD2">Tanımlanmamış</p>
+                        }
+                        @Html.TextBoxFor(x=>x.PlanningDate2, new {@value="{"+@Model.PlanningDate2+"}", @class="form-control",@style="display:none;margin-bottom:10px;" ,@type="datetime-local",@placeholder="Toplantı Tarihi"})
+
+                        @Html.ValidationMessageFor(x=>x.PlanningDate2,"",new{@class="text-danger",@id="pd2err"})
+                        <button type="button" class="btn btn-primary" id="pDate2" onclick="ChangeToPDate('#PlanningDate2','none','#currentPD2',this,'#pd2err')">Düzenle</button>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="PlanningDate3">Toplantı Tarihi</label>
+                        @if (@Model.PlanningDate3.Year != 1)
+                        {
+                            <p class="form-control" id="currentPD3">@Model.PlanningDate3</p>
+                        }
+                        else
+                        {
+                            <p class="text-info" id="currentPD3">Tanımlanmamış</p>
+                        }
+                        @Html.TextBoxFor(x=>x.PlanningDate3, new {@value="{"+@Model.PlanningDate3+"}", @class="form-control",@style="display:none;margin-bottom:10px;" ,@type="datetime-local",@placeholder="Toplantı Tarihi"})
+
+                        @Html.ValidationMessageFor(x=>x.PlanningDate3,"",new{@class="text-danger",@id="pd3err"})
+                        <button type="button" class="btn btn-primary" id="pDate3" onclick="ChangeToPDate('#PlanningDate3','none','#currentPD3',this,'#pd3err')">Düzenle</button>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="MeetingDuration">Toplantı Süresi</label>
+                        <br>
+                        <select id="MeetingDuration" name="MeetingDuration" class="form-control" aria-placeholder="Toplantı Süresi" required>
+                            @if (@Model.MeetingDuration == 45)
+                            {
+                                <option disabled>Toplantı Süresini Seçin</option>
+                                <option selected value="45">45 Dk</option>
+                                <option value="90">90 Dk</option>
+                                <option value="135">135 Dk</option>
+                                <option value="180">180 Dk</option>
+                            }
+                            else if (@Model.MeetingDuration == 90)
+                            {
+                                <option disabled>Toplantı Süresini Seçin</option>
+                                <option value="45">45 Dk</option>
+                                <option selected value="90">90 Dk</option>
+                                <option value="135">135 Dk</option>
+                                <option value="180">180 Dk</option>
+                            }
+                            else if (@Model.MeetingDuration == 135)
+                            {
+                                <option disabled>Toplantı Süresini Seçin</option>
+                                <option value="45">45 Dk</option>
+                                <option value="90">90 Dk</option>
+                                <option selected value="135">135 Dk</option>
+                                <option value="180">180 Dk</option>
+                            }
+                            else if (@Model.MeetingDuration == 180)
+                            {
+                                <option disabled>Toplantı Süresini Seçin</option>
+                                <option value="45">45 Dk</option>
+                                <option value="90">90 Dk</option>
+                                <option value="135">135 Dk</option>
+                                <option selected value="180">180 Dk</option>
+                            }
+                            else
+                            {
+                                <option disabled>Toplantı Süresini Seçin</option>
+                                <option value="45">45 Dk</option>
+                                <option value="90">90 Dk</option>
+                                <option value="135">135 Dk</option>
+                                <option value="180">180 Dk</option>
+                            }
+
+                        </select>
+                        @Html.ValidationMessageFor(x=>x.MeetingDuration,"",new{@class="text-danger"})
+                    </div>
+                    <div class="form-group">
+                        <div class="wrapper">
+                            <div class="content">
+                                <label for="ulMail">Toplantı Katılımcıları</label>
+                                <ul id="ulMail">
+                                    <input id="mailInput" value="" type="text" spellcheck="false" placeholder="Her e-mail adresinden sonra virgül koyun" />
+                                </ul>
+                            </div>
+                            <div class="details">
+                                <p><span>50</span> mail hakkınız kaldı.</p>
+                                <button type="button" id="clearBtn">Tümünü Temizle</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-none">
+                        <select class="form-control1" aria-label="SendMails" name="SendMails" id="sendMailInput" multiple>
+                        </select>
+                    </div>
+                    <button type="button" onclick="DoYouUpdateMeeting()" class="btn btn-gradient-primary mr-2">GÜNCELLE</button>
+                    <a href="/Meeting" class="btn btn-light">İptal</a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const ul = document.querySelector("ul#ulMail"),
+        input = document.querySelector("#mailInput"),
+        tagNumb = document.querySelector(".details span");
+    sendMailInput = document.querySelector('#sendMailInput');
+
+    console.log(ul)
+
+    let maxTags = 50,
+        tags = [];
+
+    countTags();
+    createTag();
+
+    function countTags() {
+        input.focus();
+        tagNumb.innerText = maxTags - tags.length;
+    }
+
+    function createTag() {
+        ul.querySelectorAll("li").forEach(li => li.remove());
+        tags.slice().reverse().forEach(tag => {
+            let liTag = `<li>${tag} <i class="form-group" onclick="remove(this, '${tag}')"></i></li>`;
+            ul.insertAdjacentHTML("afterbegin", liTag);
+        });
+        countTags();
+        console.log(tags);
+    }
+
+    function remove(element, tag) {
+        let index = tags.indexOf(tag);
+        tags = [...tags.slice(0, index), ...tags.slice(index + 1)];
+        element.parentElement.remove();
+        countTags();
+    }
+
+    function addTag(e) {
+        if (e.key == ",") {
+            let tag = e.target.value.replace(/\s+/g, ' ');
+            if (tag.length > 1 && !tags.includes(tag)) {
+                if (tags.length < 50) {
+                    tag.split(',').forEach(tag => {
+                        if (tag != "") {
+                            tags.push(tag);
+                            createTag();
+                        }
+                    });
+                }
+            }
+            e.target.value = "";
+        }
+    }
+
+    input.addEventListener("keyup", addTag);
+
+    const removeBtn = document.querySelector(".details button#clearBtn");
+    removeBtn.addEventListener("click", () => {
+        tags.length = 0;
+        ul.querySelectorAll("li").forEach(li => li.remove());
+        countTags();
+    });
+
+    function createTagForPost() {
+        sendMailInput.textContent = ''
+        tags.slice().reverse().forEach(tag => {
+            let optionTag = `<option selected value = '${tag}'> ${tag} </option>`
+            sendMailInput.insertAdjacentHTML("afterbegin", optionTag)
+        });
+    }
+
+    function ChangeToPDate(id, state, text, button, err) {
+        if (state == 'none') {
+            var btnFunction = "ChangeToPDate('" + id + "','block','" + text + "',this)"
+            document.querySelector(id).style.display = "block";
+            button.textContent = 'İptal';
+            button.classList.remove('btn-primary');
+            button.classList.add('btn-danger');
+            button.setAttribute("onclick", btnFunction)
+            document.querySelector(text).style.display = "none";
+            document.querySelector(err).style.display = "block";
+        }
+
+        if (state == 'block') {
+            var btnFunction = "ChangeToPDate('" + id + "','none','" + text + "',this)"
+            document.querySelector(id).style.display = "none";
+            button.textContent = 'Düzenle';
+            button.classList.remove('btn-danger');
+            button.classList.add('btn-primary');
+            button.setAttribute("onclick", btnFunction)
+            document.querySelector(text).style.display = "block";
+            document.querySelector(err).style.display = "none";
+
+        }
+    }
+
+    @foreach (var mail in Model.Mails)
+    {
+        <text>
+            tags.push("@mail.email");
+        createTag();
+        </text>
+    }
+                if (document.querySelector('#pderr').textContent == "The value '' is invalid.") {
+        document.querySelector('#pderr').style.display = "none";
+    }
+    if (document.querySelector('#pd2err').textContent == "The value '' is invalid.") {
+        document.querySelector('#pd2err').style.display = "none";
+    }
+    if (document.querySelector('#pd3err').textContent == "The value '' is invalid.") {
+        document.querySelector('#pd3err').style.display = "none";
+    }
+</script>
